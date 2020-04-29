@@ -1,3 +1,4 @@
+
 # GDPR Violation Plot
 
 This is a simple visualization of the data of the General Data Protection Regulation (a regulation in EU law on 
